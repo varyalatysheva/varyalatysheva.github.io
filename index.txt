@@ -1,7 +1,0 @@
-<!doctype html>
-<html>
-  <head>
-      <title>Мандельштам и муми-тролли</title>
-  </head>
-<body></body>
-</html>
